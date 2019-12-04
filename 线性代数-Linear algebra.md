@@ -24,7 +24,7 @@ For Example: 二维空间中，向量（3，4）的长度是5，那么5就是这
 > L1范数：  
 >  <img src="http://chart.googleapis.com/chart?cht=tx&chl= ||x||_1 =|x_1| + |x_2| +|x_3| + ... +|x_n| " style="border:none;alignment：center;">  
 > L2范数：  
-> <img src="http://chart.googleapis.com/chart?cht=tx&chl= \|\|x||_2 =(|x_1|^2 + |x_2|^2 +|x_3|^2 + ... + |x_n|^2)^{\frac{1}{2}} " style="border:none;">  
+> <img src="http://chart.googleapis.com/chart?cht=tx&chl= ||x||_2 =(|x_1|^2 + |x_2|^2 +|x_3|^2 + ... + |x_n|^2)^{\frac{1}{2}} " style="border:none;">  
 *特别的，L0范数：指向量中非零元素的个数。无穷范数：指向量中所有元素的最大绝对值。*
 
 **深度理解：**
