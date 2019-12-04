@@ -20,11 +20,11 @@ For Example: 二维空间中，向量（3，4）的长度是5，那么5就是这
 > 公式理解：对于P-范数，如果  
 > <img src="http://chart.googleapis.com/chart?cht=tx&chl= x=[x_1,x_2,x_3, ... ,x_n ]^T" style="border:none;">  
 > 那么向量x的$P-$范数就是：  
->  <img src="http://chart.googleapis.com/chart?cht=tx&chl= \||x||_p=(|x_1|^p + |x_2|^p + |x_3|^p + ... + |x_n|^p)^{\frac{1}{p} }" style="border:none;">  
+>  <img src="http://chart.googleapis.com/chart?cht=tx&chl= ||x||_p=(|x_1|^p + |x_2|^p + |x_3|^p + ... + |x_n|^p)^{\frac{1}{p} }" style="border:none;">  
 > L1范数：  
->  <img src="http://chart.googleapis.com/chart?cht=tx&chl= \||x||_1 =|x_1| + |x_2| +|x_3| + ... +|x_n| " style="border:none;alignment：center;">  
+>  <img src="http://chart.googleapis.com/chart?cht=tx&chl= ||x||_1 =|x_1| + |x_2| +|x_3| + ... +|x_n| " style="border:none;alignment：center;">  
 > L2范数：  
-> <img src="http://chart.googleapis.com/chart?cht=tx&chl= \||x||_2 =(|x_1|^2 + |x_2|^2 +|x_3|^2 + ... + |x_n|^2)^{\frac{1}{2}} " style="border:none;">  
+> <img src="http://chart.googleapis.com/chart?cht=tx&chl= \|\|x||_2 =(|x_1|^2 + |x_2|^2 +|x_3|^2 + ... + |x_n|^2)^{\frac{1}{2}} " style="border:none;">  
 *特别的，L0范数：指向量中非零元素的个数。无穷范数：指向量中所有元素的最大绝对值。*
 
 **深度理解：**
